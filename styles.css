@@ -1,0 +1,16 @@
+header{
+    color: white;
+}
+header{
+    background-color: black;
+}
+.content-wrap{
+    width: 800px;
+    margin: 0 auto;
+}
+header{
+    font-size: x-large;
+}
+h1,h2{
+    font-size: 60px;
+}

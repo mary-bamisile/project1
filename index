@@ -1,0 +1,83 @@
+<!doctype <!DOCTYPE html>
+<htmL lang="en-GB">
+<head>
+    <link rel="stylesheet" href="">
+<meta charset="UTF-8">
+<meta name="viewpoint" content="width=-device-width,intial-scale=1.0">
+<title>My First Project </title>
+    
+</head>
+
+<body>
+    <main>
+             <!--********** ABOUT/PROFILE**********-->
+        <header>
+            <div class="content-wrap">
+            <h1> Bamisile Mary Oluwafunmilayo</h1>
+            <h2> Web Developer</h2>
+            <p> currently a frontend developer trainee in the sponsored Ekiti state digital skill academy training. 
+             with zero knowledge of what these entails prior to the program,and with two weeks of intense training,
+             I've been able to create a valid html file that runs smoothly.
+             knowing fully well that the goal is to become a profesional at this field at end of this program.
+            </p>
+            </div>
+              <!--********** End of  ABOUT/PROFILE**********-->
+        </header>
+
+             <!--********** PROJECT/PORTFOLIO**********-->
+        <section>
+            <h3> Writing html</h3>
+            <img src="">
+            <p> putting together the knowledge from the previous classes in writing these html 
+             inorder to check how far I've learnt so far </p>
+             <a href="http">
+                <!--********** End of PROJECT/PORTFOLIO**********-->
+
+        </section>
+
+              <!--********** EDUCATION/QUALIFICATION**********-->
+        <section>
+            <h2> Education</h2>
+            <section>
+                <h3> Santuay Of Peace Children Academy- Ado-Ekiti></h3>
+                <p> 2005-2010</p>
+                <p> certification of primary school education</p>
+            </section>
+
+            <section>
+                <h3> Christ's Girls' School - Ado-Ekiti</h3>
+                <p>2010-2016</p>
+                <p>certification of secondary school education</p>
+            </section>
+
+            <section>
+                <h3> Obafemi Awolowo University</h3>
+                <p>2016-2021</p>
+                <p>degree in Bachelor of Science in Biochemistry and Molecular Biology</p>
+            </section>
+        </section>
+              <!--********** END OF EDUCATION/QUALIFICATION**********-->
+
+        <footer>
+            <h2> Let's keep in touch!</h2>
+            <ul>
+                <li><a href="mailto:maryoluwafunmi99@gmail.com">maryoluwafunmi99@gmail.com</a></li>
+                <li><a href="http://Maryperry.com" target="_blank">Maryperry.com</a></li>
+                <li><a href="https://twitter.com/marybamisile?s=21&tH8-eCEwD0RyXCzDXICKQ" target="_blank"> twitter</a></li>
+                <li><a href="https;//www.facebool.com/maryoluwademilade.bamisile?mibextid=LQQJ4d" target="_blank"> facebook</a></li>
+                
+            </ul>
+        </footer>
+         
+
+
+
+    </main>
+    
+
+
+</body>
+
+
+
+</htmL>
